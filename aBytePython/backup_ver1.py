@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # !/usr/bin/python
 # Filename: backup_ver1.py
 
@@ -20,3 +21,6 @@ if os.system(zip_command) == 0:
 	print("Successful backup to", target)
 else:
 	print("Backup FAILED") 
+=======
+.
+>>>>>>> 184041f0beb2aaa4381c98ae35ca81b0d4f4c3a7
